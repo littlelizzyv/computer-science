@@ -145,121 +145,121 @@ Courses | Duration | Effort
 
 ### Algorithms
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Algorithms, Part I](https://www.coursera.org/course/algs4partI)| 6 weeks | 6-12 hours/week
-[Algorithms, Part II](https://www.coursera.org/course/algs4partII)| 6 weeks |  6-12 hours/week
-[Analysis of Algorithms](https://www.coursera.org/course/aofa)| 6 weeks | 6-8 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Algorithms, Part I](https://www.coursera.org/course/algs4partI)| 6 weeks | 6-12 hours/week | 36-72 hours
+[Algorithms, Part II](https://www.coursera.org/course/algs4partII)| 6 weeks |  6-12 hours/week | 36-72 hours
+[Analysis of Algorithms](https://www.coursera.org/course/aofa)| 6 weeks | 6-8 hours/week | 36-48 hours
 
 ### Programming Paradigms
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)| 7 weeks | 5-7 hours/week
-[Principles of Reactive Programming](https://www.coursera.org/course/reactive)| 7 weeks | 5-7 hours/week
-[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | 6 weeks | 4-6 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)| 7 weeks | 5-7 hours/week | 35-49 hours
+[Principles of Reactive Programming](https://www.coursera.org/course/reactive)| 7 weeks | 5-7 hours/week | 35-49 hours
+[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | 6 weeks | 4-6 hours/week | 24-36 hours
 
 ### Software Testing
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Software Testing](https://www.udacity.com/course/software-testing--cs258)| 4 weeks | 6 hours/week
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Software Testing](https://www.udacity.com/course/software-testing--cs258)| 4 weeks | 6 hours/week | 24 hours
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | 48 hours
 
 ### Math (Calculus)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Calculus One](https://www.coursera.org/learn/calculus1)| 16 weeks | 8-10 hours/week
-[Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week
-[Multivariable Calculus](https://www.coursera.org/course/m2o2c2)| 6 weeks | 5-7 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Calculus One](https://www.coursera.org/learn/calculus1)| 16 weeks | 8-10 hours/week | 128-160 hours
+[Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week | 63-70 hours
+[Multivariable Calculus](https://www.coursera.org/course/m2o2c2)| 6 weeks | 5-7 hours/week | 30-42 hours
 
 ### Software Architecture
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Web Application Architectures](https://www.coursera.org/course/webapplications)| 6 weeks | 6-9 hours/week
-[Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Web Application Architectures](https://www.coursera.org/course/webapplications)| 6 weeks | 6-9 hours/week | 36-54 hours
+[Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week | 48 hours
 
 ### Theory
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Automata](https://www.coursera.org/course/automata)| 6 weeks | 8-10 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Automata](https://www.coursera.org/course/automata)| 6 weeks | 8-10 hours/week | 48-60 hours
 
 ### Software Engineering
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Engineering Software as a Service (SaaS), Part 1](https://www.edx.org/course/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x)| 9 weeks | 12 hours/week
-[Engineering Software as a Service (Saas), Part 2](https://www.edx.org/course/engineering-software-service-saas-part-2-uc-berkeleyx-cs169-2x)| 8 weeks | 12 hours/week
-[Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices)| 4 weeks | 6-8 hours/week
-[Startup Engineering](https://www.coursera.org/course/startup) | 12 weeks | 2-20 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Engineering Software as a Service (SaaS), Part 1](https://www.edx.org/course/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x)| 9 weeks | 12 hours/week | 108 hours
+[Engineering Software as a Service (Saas), Part 2](https://www.edx.org/course/engineering-software-service-saas-part-2-uc-berkeleyx-cs169-2x)| 8 weeks | 12 hours/week | 108 hours
+[Software Processes and Agile Practices](https://www.coursera.org/learn/software-processes-and-agile-practices)| 4 weeks | 6-8 hours/week | 24-48 hours
+[Startup Engineering](https://www.coursera.org/course/startup) | 12 weeks | 2-20 hours/week | 24-240 hours
 
 ### Math (Probability)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)| 16 weeks | 12 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0)| 16 weeks | 12 hours/week | 192 hours
 
 ### Computer Architecture
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[The Hardware/Software Interface](https://www.coursera.org/course/hwswinterface)| 8 weeks | 10-15 hours/week
-[Computer Architecture](https://www.coursera.org/course/comparch)| - | 5-8 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[The Hardware/Software Interface](https://www.coursera.org/course/hwswinterface)| 8 weeks | 10-15 hours/week | 80-120 hours
+[Computer Architecture](https://www.coursera.org/course/comparch)| - | 5-8 hours/week | ~
 
 ### Operating Systems
 
-Courses | Duration | Effort
-:-- | :--: | :--:
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
 [Operating System Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)| - | -
-[Operating Systems and System Programming](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)| 10 weeks | 2-3 hours/week
+[Operating Systems and System Programming](https://www.youtube.com/view_play_list?p=-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)| 10 weeks | 2-3 hours/week | 20-30 hours
 
 ### Computer Networks
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | - | 5-10 hours/week
-[Computer Networks](https://www.coursera.org/course/comnetworks)| - | 4–12 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | - | 5-10 hours/week | ~
+[Computer Networks](https://www.coursera.org/course/comnetworks)| - | 4–12 hours/week | ~
 
 ### Databases
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| 12 weeks | 8-12 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| 12 weeks | 8-12 hours/week | 96-144 hours
 
 ### Cloud Computing
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-0)| 4 weeks | 1 hour/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-0)| 4 weeks | 1 hour/week | 4 hours
 
 ### Math (Linear Algebra)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.coursera.org/course/matrix)| 10 weeks | 7-10 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.coursera.org/course/matrix)| 10 weeks | 7-10 hours/week | 70-100 hours
 
 ### Cryptography
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Cryptography I](https://www.coursera.org/course/crypto)| 6 weeks | 5-7 hours/week
-[Cryptography II](https://www.coursera.org/course/crypto2)| 6 weeks | 6-8 hours/week
-[Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)| 8 weeks | 6 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Cryptography I](https://www.coursera.org/course/crypto)| 6 weeks | 5-7 hours/week | 30-42 hours
+[Cryptography II](https://www.coursera.org/course/crypto2)| 6 weeks | 6-8 hours/week | 36-48 hours
+[Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)| 8 weeks | 6 hours/week | 48 hours
 
 ### Security
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security) | 8 weeks | 3 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security) | 8 weeks | 3 hours/week | 24 hours
 
 ### Compilers
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Compilers](https://www.coursera.org/course/compilers)| 9 weeks | 6-8 hours/week
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Compilers](https://www.coursera.org/course/compilers)| 9 weeks | 6-8 hours/week | 54-72 hours
 
 ### Parallel Computing
 
