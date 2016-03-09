@@ -111,7 +111,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - [Data Mining](#data-mining)
 - [Internet of Things](#internet-of-things)
 - [Specializations](#specializations)
-- [Android Apps & Gradle](#android-apps-and-gradle)
+- [Android Apps & Gradle](#android-apps-&-gradle)
 
 ---
 
