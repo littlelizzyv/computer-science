@@ -111,6 +111,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 - [Data Mining](#data-mining)
 - [Internet of Things](#internet-of-things)
 - [Specializations](#specializations)
+- [Android Apps and Gradle](#android-apps-and-gradle)
 
 ---
 
@@ -322,6 +323,12 @@ After finishing the courses above, start your specializations on the topics that
 Search such specializations in the following platforms:
 
 #### [Coursera](https://www.coursera.org/) | [edX](https://www.edx.org/) | [Udacity](https://www.udacity.com/) | [Future Learn](https://www.futurelearn.com/) | [Udemy](https://www.udemy.com)
+
+#### [Android Apps and Gradle](#android-apps-and-gradle) 
+
+![Developing Android Apps](https://www.udacity.com/course/ud853)
+![Advanced Android App Development](https://www.udacity.com/course/ud855)
+![Gradle](https://gradle.org/udacity-gradle-for-android-and-java-training/)
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
