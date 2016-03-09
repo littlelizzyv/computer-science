@@ -326,9 +326,11 @@ Search such specializations in the following platforms:
 
 #### [Android Apps and Gradle](#android-apps-and-gradle) 
 
-![Developing Android Apps](https://www.udacity.com/course/ud853)
-![Advanced Android App Development](https://www.udacity.com/course/ud855)
-![Gradle](https://gradle.org/udacity-gradle-for-android-and-java-training/)
+Courses | Duration | Effort | Total
+:-- | :--: | :--: | :--:
+[Developing Android Apps](https://www.udacity.com/course/ud853) | 10 weeks | 6hr/wk | 60hrs
+[Advanced Android App Development](https://www.udacity.com/course/ud855) | 6 weeks | 6hr/wk | 36hrs
+[Gradle](https://gradle.org/udacity-gradle-for-android-and-java-training/) | 6 weeks | 6hr/wk | 36hrs
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
