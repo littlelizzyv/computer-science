@@ -130,8 +130,7 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | 9 weeks | 5 hours/week
 
-##### Other Resource
-[How to Learn Advanced Mathematics](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
+##### Other Resource: [How to Learn Advanced Mathematics](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
 
 ### Program Design
 
